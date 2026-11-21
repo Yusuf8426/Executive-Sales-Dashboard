@@ -24,7 +24,7 @@ This project is an interactive Executive Sales Dashboard developed using Microso
 - Content/Executive_Sales_Dashboard.pbix
 - Content/Sales_Dataset.xlsx
 - Content/Dashboard_Preview.png
-  Initial commit: Add Power BI Executive Sales Dashboard
+ 
 ## Objective
 The objective of this project is to analyze sales data and present meaningful business insights through an interactive dashboard.
 ## Author
